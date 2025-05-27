@@ -27,7 +27,6 @@ goog.require('Blockly.Colours');
 goog.require('Blockly.constants');
 goog.require('Blockly.ScratchBlocks.VerticalExtensions');
 
-
 Blockly.Blocks['looks_sayforsecs'] = {
   /**
    * Block to say for some time.

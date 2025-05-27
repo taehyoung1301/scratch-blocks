@@ -96,6 +96,13 @@ Blockly.Msg.EVENT_WHENKEYPRESSED_DOWN = 'down arrow';
 Blockly.Msg.EVENT_WHENKEYPRESSED_UP = 'up arrow';
 Blockly.Msg.EVENT_WHENKEYPRESSED_ANY = 'any';
 
+
+Blockly.Msg.OBJECT_ALERT = 'alert %1';
+Blockly.Msg.OBJECT_ADJACENT_OBJECTS = 'get adjacent objects'
+Blockly.Msg.OBJECT_NEARLIST = 'near objects %1'
+Blockly.Msg.OBJECT_ONCOLLISION_TOTEM = 'on collision listener %1'
+Blockly.Msg.OBJECT_ONCOLLISION = 'on collision with %1'
+Blockly.Msg.OBJECT_RUNFUNCTION = 'in %1 run %2'
 // Looks blocks
 Blockly.Msg.LOOKS_SAYFORSECS = 'say %1 for %2 seconds';
 Blockly.Msg.LOOKS_SAY = 'say %1';
@@ -280,6 +287,7 @@ Blockly.Msg.SOUND_VOLUME = 'volume';
 Blockly.Msg.SOUND_RECORD = 'record...';
 
 // Category labels
+Blockly.Msg.CATEGORY_OBJECT = 'Object';
 Blockly.Msg.CATEGORY_MOTION = 'Motion';
 Blockly.Msg.CATEGORY_LOOKS = 'Looks';
 Blockly.Msg.CATEGORY_SOUND = 'Sound';
